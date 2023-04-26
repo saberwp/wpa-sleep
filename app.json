@@ -1,0 +1,9 @@
+{
+	"key": "sleep_manager",
+	"title": "Sleep Manager",
+	"models": [],
+	"location": {
+		"where": "front",
+		"path": "sleep"
+	}
+}
